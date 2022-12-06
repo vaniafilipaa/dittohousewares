@@ -439,7 +439,7 @@ header .sticky {
     padding-top:35px;
     padding-bottom:15px;
 }
-#navbar .logo-block{
+/*#navbar .logo-block{
     text-align: left;
 }
 #navbar .logo img{
@@ -451,7 +451,7 @@ header .sticky {
     height: auto;
     float: none;
     vertical-align:bottom
-}
+}*/
 .mega-menu > li.menu-item > a > span,
 .mgk-main-menu #main-menu .mega-menu > li.menu-item > a, .mgk-main-menu #main-menu .mega-menu > li.menu-item > h5{
     padding-bottom:0!important;
